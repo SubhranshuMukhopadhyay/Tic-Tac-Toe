@@ -7,10 +7,10 @@ There is another page which is the 'Error Page'. All the pages are connected usi
 There is no separate CSS file has used for this project. The styling has been done inside the same JSX file using 'Tailwind CSS'.
 Images of all the pages -
 ## Home Page
-<img src="https://github.com/SubhranshuMukhopadhyay/Chocospark/blob/main/Resource%20Images/Log%20In%20Page.jpg" alt="MLBC">
+<img src="https://github.com/SubhranshuMukhopadhyay/Tic-Tac-Toe/blob/main/src/assets/Tic%20Tac%20Toe%20Home%20Page.jpg" alt="MLBC">
 
 ## Game Page
-<img src="https://github.com/SubhranshuMukhopadhyay/Chocospark/blob/main/Resource%20Images/Log%20In%20Page.jpg" alt="MLBC">
+<img src="https://github.com/SubhranshuMukhopadhyay/Tic-Tac-Toe/blob/main/src/assets/Tic%20Tac%20Toe%20Game%20Page.jpg" alt="MLBC">
 
 ## Error Page
-<img src="https://github.com/SubhranshuMukhopadhyay/Chocospark/blob/main/Resource%20Images/Log%20In%20Page.jpg" alt="MLBC">
+<img src="https://github.com/SubhranshuMukhopadhyay/Tic-Tac-Toe/blob/main/src/assets/Tic%20Tac%20Toe%20Error%20Page.jpg" alt="MLBC">
